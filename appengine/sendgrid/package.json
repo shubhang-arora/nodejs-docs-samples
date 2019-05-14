@@ -32,7 +32,7 @@
     "@sendgrid/client": "^6.3.0"
   },
   "devDependencies": {
-    "assert": "^1.4.1",
+    "assert": "^2.0.0",
     "mocha": "^6.1.4",
     "supertest": "^4.0.2"
   }
